@@ -109,12 +109,13 @@ Linear (512 → 2)
 
 Accuracy: 99.89%
 
-# Контакты
-TG: @KiKmEp
-Email: kirill-gusevki@yandex.ru
-
 Precision: 99.92%
 
 Recall: 99.84%
 
 F1-score: 99.88%
+
+# Контакты
+**Гусев Кирилл Денисович**
+**TG**: @KiKmEp
+**Email**: kirill-gusevki@yandex.ru
